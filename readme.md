@@ -4,7 +4,7 @@ This simple mobile apps build by `React Native` and `Expo`. Create todo and mark
 
 ## Visual
 
-![alt text](https://github.com/arif05rachman/todoList/blob/master/ss.png)
+<img src="./ss.png" width="320">
 
 ## Installation
 
